@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am aPython developer with knowledge in the use of Amazon Web Services (AWS) cloud technologies. Handling both SQL and NoSQL databases, skilled in the use of Python frameworks such as Django, Flask and FastAPI for the development of scalable and efficient web applications. Always looking for new challenges and opportunities to apply my knowledge in software development.<br>
+I am Python developer with knowledge in the use of Amazon Web Services (AWS) cloud technologies. Handling both SQL and NoSQL databases, skilled in the use of Python frameworks such as Django, Flask and FastAPI for the development of scalable and efficient web applications. Always looking for new challenges and opportunities to apply my knowledge in software development.<br>
 
 
 ## 🌐 Socials:
